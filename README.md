@@ -11,9 +11,9 @@ files are uploaded in respective folders uniquely. The Table provided gives the 
 
 The table provides statistical Inference of the files in every Subfolder.
 
-| ***S. No.*** | ***Folder Name*** | ***No. of Files*** | ***Link***
+| ***S. No.*** | ***Folder Name*** | ***No. of Folders*** | ***Link***
 |-|-|-|-|
-| 1. | ***Node.js*** |  | [Node.js](https://github.com/VishuKalier2003/Web-Development/tree/main/Node.js/Challenges)  |
+| 1. | ***Node.js*** | 1 | [Node.js](https://github.com/VishuKalier2003/Web-Development/tree/main/Node.js/Challenges)  |
 
 ------
 
