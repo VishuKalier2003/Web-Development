@@ -27,6 +27,11 @@ The Folder Structure explains the Folder directories of the current repository. 
     |      |--> Challenges            => Challenges/Exercises related to Node.js
     |      |
     |      |--> Helper Snippets       => Useful Code Snippets related to Node.js
+    |
+    |--> HTML                         => All Files related to HTML
+    |      |
+    |      |--> Cheat Sheet           => All possible Non-deprecated Tags in HTML 
+    |
 
 
 ------
