@@ -14,6 +14,8 @@ The table provides statistical Inference of the files in every Subfolder.
 | ***S. No.*** | ***Folder Name*** | ***No. of Folders*** | ***Link***
 |-|-|-|-|
 | 1. | ***Node.js*** | 2 | [Node.js](https://github.com/VishuKalier2003/Web-Development/tree/main/Node.js)  |
+| 2. | ***HTML*** | 1| [HTML](https://github.com/VishuKalier2003/Web-Development/tree/main/HTML)    |
+
 
 ------
 
