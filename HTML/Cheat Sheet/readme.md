@@ -13,7 +13,7 @@ The table provides the description of the code content of every file.
 
 | ***S. No.*** | ***File Name*** | ***Link*** | ***Description*** |
 |-|-|-|-|
-| 1. | *Tags.html* | [file.js](https://github.com/VishuKalier2003/Web-Development/blob/main/Node.js/Challenges/file.js) | Syntax Sheet of *HTML* |
+| 1. | *Tags.html* | [*Tags.html*](https://github.com/VishuKalier2003/Web-Development/tree/main/HTML/Cheat%20Sheet) | Syntax Sheet of *HTML* |
 
 ------
 
