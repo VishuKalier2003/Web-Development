@@ -1,0 +1,123 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* Font Styling - Tailwind Cascading Style Sheet (Tailwind.css) */
+
+/* Font Families */
+.font-sans                  .font-mono                      .font-serif
+
+/* Font Sizes */
+.text-xs                    .text-sm                        .text-base                  .text-8xl   
+.text-lg                    .text-xl                        .text-2xl                   .text-9xl
+.text-3xl                   .text-4xl                       .text-5xl                   .text-7xl
+.text-6xl                   
+
+/* Font Smoothings */
+.antialiased                .subpixel-antialiased
+
+/* Font Styles */
+.italic                     .non-italic
+
+/* Font Weights */
+.font-thin                  .font-extralight                .font-light                 .font-normal
+.font-medium                .font-semibold                  .font-bold                  .font-extrabold
+.font-black
+
+/* Numeric Font Variants */
+.normal-nums                .ordinal                        .slashed-zero               .lining-nums
+.oldstyle-nums              .proportional-nums              .tabular-nums               .diagonal-fractions
+.stacked-fractions
+
+/* Letter Spacings */
+.tracking-tighter           .tracking-tight                 .tracking-normal            .tracking-wide
+.tracking-wider             .tracking-widest
+
+/* Line Heights */
+.leading-3                  .leading-4                      .leading-5                  .leading-6
+.leading-7                  .leading-8                      .leading-9                  .leading-10
+.leading-none               .leading-tight                  .leading-snug               .leading-normal
+.leading-relaxed            .leading-loose
+
+/* List Styles */
+.list-none                  .list-disc                      .list-decimal
+
+/* List Style Position */
+.list-inside                .list-outside
+
+/* Placeholders Colors */
+.placeholder-transparent    .placeholder-current            .placeholder-black          .placeholder-white
+.placeholder-gray-50        .placeholder-gray-100           .placeholder-gray-200       .placeholder-gray-300
+.placeholder-gray-400       .placeholder-gray-500           .placeholder-gray-600       .placeholder-gray-700
+.placeholder-gray-800       .placeholder-gray-900           .placeholder-red-50         .placeholder-red-100           
+.placeholder-red-200        .placeholder-red-300            .placeholder-red-400        .placeholder-red-500
+.placeholder-red-600        .placeholder-red-700            .placeholder-red-800        .placeholder-red-900
+.placeholder-green-50       .placeholder-green-100          .placeholder-green-200      .placeholder-green-300
+.placeholder-green-400      .placeholder-green-500          .placeholder-green-600      .placeholder-green-700
+.placeholder-green-800      .placeholder-green-900          .placeholder-blue-50        .placeholder-blue-100           
+.placeholder-blue-200       .placeholder-blue-300           .placeholder-blue-400       .placeholder-blue-500
+.placeholder-blue-600       .placeholder-blue-700           .placeholder-blue-800       .placeholder-blue-900
+.placeholder-indigo-50      .placeholder-indigo-100         .placeholder-indigo-200     .placeholder-indigo-300
+.placeholder-indigo-400     .placeholder-indigo-500         .placeholder-indigo-600     .placeholder-indigo-700
+.placeholder-indigo-800     .placeholder-indigo-900         .placeholder-purple-50      .placeholder-purple-100           
+.placeholder-purple-200     .placeholder-purple-300         .placeholder-purple-400     .placeholder-purple-500
+.placeholder-purple-600     .placeholder-purple-700         .placeholder-purple-800     .placeholder-purple-900
+.placeholder-pink-50        .placeholder-pink-100           .placeholder-pink-200       .placeholder-pink-300         
+.placeholder-pink-400       .placeholder-pink-500           .placeholder-purple-600     .placeholder-purple-700         
+.placeholder-pink-800       .placeholder-pink-900
+
+/* Placeholder Opacities */
+.placeholder-opacity-0      .placeholder-opacity-5          .placeholder-opacity-10     .placeholder-opactiy-20  
+.placeholder-opacity-25     .placeholder-opacity-30         .placeholder-opacity-40     .placeholder-opactiy-50
+.placeholder-opacity-60     .placeholder-opacity-70         .placeholder-opacity-75     .placeholder-opactiy-80
+.placeholder-opacity-90     .placeholder-opacity-95         .placeholder-opacity-100
+
+/* Text Alignment */
+.text-left                  .text-center                    .text-right                 .text-justify
+
+/* Text Colors */
+.text-transparent    .text-current                          .text-black                 .text-white
+.text-gray-50        .text-gray-100                         .text-gray-200              .text-gray-300
+.text-gray-400       .text-gray-500                         .text-gray-600              .text-gray-700
+.text-gray-800       .text-gray-900                         .text-red-50                .text-red-100           
+.text-red-200        .text-red-300                          .text-red-400               .text-red-500
+.text-red-600        .text-red-700                          .text-red-800               .text-red-900
+.text-green-50       .text-green-100                        .text-green-200             .text-green-300
+.text-green-400      .text-green-500                        .text-green-600             .text-green-700
+.text-green-800      .text-green-900                        .text-blue-50               .text-blue-100           
+.text-blue-200       .text-blue-300                         .text-blue-400              .text-blue-500
+.text-blue-600       .text-blue-700                         .text-blue-800              .text-blue-900
+.text-indigo-50      .text-indigo-100                       .text-indigo-200            .text-indigo-300
+.text-indigo-400     .text-indigo-500                       .text-indigo-600            .text-indigo-700
+.text-indigo-800     .text-indigo-900                       .text-purple-50             .text-purple-100           
+.text-purple-200     .text-purple-300                       .text-purple-400            .text-purple-500
+.text-purple-600     .text-purple-700                       .text-purple-800            .text-purple-900
+.text-pink-50        .text-pink-100                         .text-pink-200              .text-pink-300         
+.text-pink-400       .text-pink-500                         .text-purple-600            .text-purple-700         
+.text-pink-800       .text-pink-900
+
+/* Text Opacities */
+.text-opacity-0      .text-opacity-5                        .text-opacity-10            .text-opactiy-20  
+.text-opacity-25     .text-opacity-30                       .text-opacity-40            .text-opactiy-50
+.text-opacity-60     .text-opacity-70                       .text-opacity-75            .text-opactiy-80
+.text-opacity-90     .text-opacity-95                       .text-opacity-100
+
+/* Text Decorations */
+.underline          .line-through                           .no-underline
+
+/* Text Transformations */
+.uppercase          .lowercase                              .capitalize                 .normal-case
+
+/* Text Overflow */
+.truncate           .overflow-ellipsis                      .overflow-clip
+
+/* Text Vertical Alignments */
+.align-baseline     .align-top                              .align-middle               .align-bottom
+.align-text-top     .align-text-bottom
+
+/* Text Whitespaces */
+.whitespace-normal  .whitespace-nowrap                      .whitespace-pre             .whitespace-pre-line
+.whitespace-pre-wrap
+
+/* Word Break */
+.break-normal       .break-words                            .break-all
