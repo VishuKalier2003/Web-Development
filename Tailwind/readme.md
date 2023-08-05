@@ -12,7 +12,7 @@ The table provides statistical Inference of the files in every Subfolder.
 
 | ***S. No.*** | ***Folder Name*** | ***No. of Files*** | ***Link***
 |-|-|-|-|
-| 1. | ***Code Snippets*** | 1 | [CodeSnippets](https://github.com/VishuKalier2003/Web-Development/tree/main/Node.js/Challenges)  |
+| 1. | ***Code Snippets*** | 1 | [CodeSnippets](https://github.com/VishuKalier2003/Web-Development/tree/main/Tailwind/Code%20Snippets)  |
 
 ------
 
