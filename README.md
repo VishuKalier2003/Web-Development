@@ -14,7 +14,8 @@ The table provides statistical Inference of the files in every Subfolder.
 | ***S. No.*** | ***Folder Name*** | ***No. of Folders*** | ***Link***
 |-|-|-|-|
 | 1. | ***Node.js*** | 2 | [Node.js](https://github.com/VishuKalier2003/Web-Development/tree/main/Node.js)  |
-| 2. | ***HTML*** | 1| [HTML](https://github.com/VishuKalier2003/Web-Development/tree/main/HTML)    |
+| 2. | ***HTML*** | 1 | [HTML](https://github.com/VishuKalier2003/Web-Development/tree/main/HTML)    |
+| 3. | ***Tailwind.css*** | 1 | [Tailwind]() |
 
 
 ------
@@ -33,6 +34,10 @@ The Folder Structure explains the Folder directories of the current repository. 
     |--> HTML                         => All Files related to HTML
     |      |
     |      |--> Cheat Sheet           => All possible Non-deprecated Tags in HTML 
+    |
+    |--> Tailwind.css                 => All Files related to Tailwind CSS
+    |      |
+    |      |--> Code Snippets         => Useful Code Snippets related to Tailwind CSS
     |
 
 
