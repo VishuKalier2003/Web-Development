@@ -13,7 +13,7 @@ The table provides the description of the code content of every file.
 
 | ***S. No.*** | ***File Name*** | ***Link*** | ***Description*** |
 |-|-|-|-|
-| 1. | *FontTailwind.css* | [FontTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/FontTailwind.css) | Font Styling File of Tailwind Snippets |
+| 1. | *FontTailwind.css* | [FontTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/FontTailwind.css) | *Font Styling File of Tailwind Snippets* |
 
 ------
 
