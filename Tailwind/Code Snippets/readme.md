@@ -14,7 +14,8 @@ The table provides the description of the code content of every file.
 | ***S. No.*** | ***File Name*** | ***Link*** | ***Description*** |
 |-|-|-|-|
 | 1. | *FontTailwind.css* | [FontTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/FontTailwind.css) | *Font Styling Utility Classes of Tailwind Snippets* |
-| 1. | *SizingTailwind.css* | [SizingTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/SizingTailwind.css) | *Elements Sizing Utility Classes of Tailwind Snippets* |
+| 2. | *SizingTailwind.css* | [SizingTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/SizingTailwind.css) | *Elements Sizing Utility Classes of Tailwind Snippets* |
+| 2. | *SpacingTailwind.css* | [SpacingTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/SpacingTailwind.css) | *Elements Spacing Utility Classes of Tailwind Snippets* |
 
 ------
 
