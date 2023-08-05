@@ -15,7 +15,7 @@ The table provides statistical Inference of the files in every Subfolder.
 |-|-|-|-|
 | 1. | ***Node.js*** | 2 | [Node.js](https://github.com/VishuKalier2003/Web-Development/tree/main/Node.js)  |
 | 2. | ***HTML*** | 1 | [HTML](https://github.com/VishuKalier2003/Web-Development/tree/main/HTML)    |
-| 3. | ***Tailwind.css*** | 1 | [Tailwind]() |
+| 3. | ***Tailwind.css*** | 1 | [Tailwind.css](https://github.com/VishuKalier2003/Web-Development/tree/main/Tailwind) |
 
 
 ------
