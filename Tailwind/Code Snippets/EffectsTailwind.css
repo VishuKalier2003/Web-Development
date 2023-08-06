@@ -1,0 +1,29 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* Effects - Tailwind Cascading Style Sheet */
+
+/* Box Shadow */
+.shadow-sm                  .shadow                     .shadow-md                  .shadow-lg
+.shadow-xl                  .shadow-2xl                 .shadow-inner               .shadow-none
+
+/* Opacity */
+.opacity-0                  .opacity-5                  .opacity-10                 .opacity-15
+.opacity-20                 .opacity-25                 .opacity-30                 .opacity-40
+.opacity-50                 .opacity-60                 .opacity-70                 .opacity-75
+.opacity-80                 .opacity-90                 .opacity-95                 .opacity-100
+
+/* Element Blending with Background */
+.mix-blend-normal           .mix-blend-multiply         .mix-blend-screen           .mix-blend-overlay
+.mix-blend-darken           .mix-blend-lighten          .mix-blend-darken           .mix-blend-color-dodge
+.mix-blend-color-burn       .mix-blend-hard-light       .mix-blend-soft-light       .mix-blend-difference
+.mix-blend-exclusion        .mix-blend-hue              .mix-blend-saturation       .mix-blend-color
+.mix-blend-luminosity
+
+/* Element Background Image Blending with Background Color */
+.bg-blend-normal            .bg-blend-multiply          .bg-blend-screen            .bg-blend-overlay
+.bg-blend-darken            .bg-blend-lighten           .bg-blend-darken            .bg-blend-color-dodge
+.bg-blend-color-burn        .bg-blend-hard-light        .bg-blend-soft-light        .bg-blend-difference
+.bg-blend-exclusion         .bg-blend-hue               .bg-blend-saturation        .bg-blend-color
+.bg-blend-luminosity
