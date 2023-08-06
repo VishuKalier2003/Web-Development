@@ -17,7 +17,11 @@ The table provides the description of the code content of every file.
 | 2. | *SizingTailwind.css* | [SizingTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/SizingTailwind.css) | *Elements Sizing Utility Classes of Tailwind Framework* |
 | 3. | *SpacingTailwind.css* | [SpacingTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/SpacingTailwind.css) | *Elements Spacing Utility Classes of Tailwind Framework* |
 | 4. | *LayoutTailwind.css* | [LayoutTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/LayoutTailwind.css) | *Elements Layout Utility Classes of Tailwind Framework* |
-| 5. | *Flex&GridTailwind.css* | [FlexGridTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/Flex%26GridTailwind.css) | *Grid anf Flexbox Utility Classes of Tailwinf Framework* |
+| 5. | *Flex&GridTailwind.css* | [FlexGridTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/Flex%26GridTailwind.css) | *Grid and Flexbox Utility Classes of Tailwind Framework* |
+| 6. | *BackgroundTailwind.css* | [BackgroundTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/BackgroundTailwind.css) | *Background Styling Utility Classes of Tailwind Framework* |
+| 7. | *BorderTaliwind.css* | [BorderTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/BorderTailwind.css) | *Border Styling Utility Classes of Tailwind Framework* |
+| 8. | *EffectsTailwind.css* | [EffectsTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/EffectsTailwind.css) | *Visual Effects Utility Classes of Tailwind Framework* |
+| 9. | *FilterTailwind.css* | [FilterTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/FilterTailwind.css) | *Filters Utility Classes of Tailwind Framework* |
 
 ------
 
