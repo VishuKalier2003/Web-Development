@@ -14,12 +14,101 @@ Reach the local directory where the Project folder is located and create two fil
     |        |
     |        |--> Style.css
 
+----
+
 ### Step - 2
+
 Open the Terminal for the Project folder and run the following command. This will install the Tailwind in the local Project Folder.
 
     npm install -D tailwindcss autoprefixer vite
+
+----
 
 ### Step - 3
 Run the following command on the same terminal to initialise the tailwind. A file named `tailwind.config.css` will be created in the Project root folder.
     
     npx tailwindcss init -p
+
+The Project Folder formed will now look like this.
+
+    |--> Project Folder
+    |        |
+    |        |--> Index.html
+    |        |
+    |        |--> Style.css
+    |        |
+    |        |--> tailwind.config.css
+    |
+
+----
+
+### Step - 4
+Install the `package.json` file in the project directory by running the below command on the project terminal.
+
+    npm init
+
+After downloading the `package.json` file, open it and change the scripts to `"start" : "vite"`. This enables the file to be run on local machine under vite environment.
+
+    |--> Project Folder
+    |        |
+    |        |--> Index.html
+    |        |
+    |        |--> Style.css
+    |        |
+    |        |--> tailwind.config.css
+    |        |
+    |        |--> package.json
+    |
+
+----
+
+### Step - 5
+Open the `tailwind.config.css` file and set the value in the content parenthesis as `content : ["*"]`. This enables tailwind to import all the packages (component, utilities and base).
+
+    /** @type {import('tailwindcss').Config} */
+    module.exports = {
+      content: ["*"],
+      theme: {
+        extend: {},
+      },
+      plugins: [],
+    }
+
+----
+
+### Step - 6
+
+In the `Style.css` file setup the tailwind by importing the utility, component and base package.
+
+    @import 'tailwindcss/base';
+    @import 'tailwindcss/utilities';
+    @import 'tailwindcss/components';
+
+----
+
+### Step - 7
+In the project folder, open the terminal once again and run the following command to start the website locally with tailwindcss.
+
+    npm run start
+
+----
+
+## ${\color{lightgreen} Maintained \space By}$
+### ${\color{lightblue} Vishu \space Kalier}$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
