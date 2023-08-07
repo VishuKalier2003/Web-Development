@@ -10,9 +10,9 @@ Reach the local directory where the Project folder is located and create two fil
 
     |--> Project Folder
     |        |
-    |        |--> Index.html
+    |        |--> Index.html            (HTML file created)
     |        |
-    |        |--> Style.css
+    |        |--> Style.css             (CSS file created)
 
 ----
 
@@ -37,7 +37,7 @@ The Project Folder formed will now look like this.
     |        |
     |        |--> Style.css
     |        |
-    |        |--> tailwind.config.css
+    |        |--> tailwind.config.css            (Tailwind css file created)
     |
 
 ----
@@ -57,7 +57,7 @@ After downloading the `package.json` file, open it and change the scripts to `"s
     |        |
     |        |--> tailwind.config.css
     |        |
-    |        |--> package.json
+    |        |--> package.json                        (Package.json file created for dependencies)
     |
 
 ----
@@ -78,7 +78,7 @@ Open the `tailwind.config.css` file and set the value in the content parenthesis
 
 ### Step - 6
 
-In the `Style.css` file setup the tailwind by importing the utility, component and base package.
+In the `Style.css` file setup the tailwind by importing the utility, component and base package. This can be done using the import statements.
 
     @import 'tailwindcss/base';
     @import 'tailwindcss/utilities';
