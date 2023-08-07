@@ -87,6 +87,15 @@ In the `Style.css` file setup the tailwind by importing the utility, component a
 ----
 
 ### Step - 7
+
+Setup the link to the `Index.html` from `Style.css` using the link tag and the script tag.
+
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+
+----
+
+### Step - 8
 In the project folder, open the terminal once again and run the following command to start the website locally with tailwindcss.
 
     npm run start
