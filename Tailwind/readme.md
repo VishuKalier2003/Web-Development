@@ -10,9 +10,9 @@ This folder contains the projects, files and folders associated with *Tailwind.c
 
 The table provides statistical Inference of the files in every Subfolder.
 
-| ***S. No.*** | ***Folder Name*** | ***No. of Files*** | ***Link***
+| ***S. No.*** | ***Folder Name*** | ***Files*** | ***Link***
 |-|-|-|-|
-| 1. | *Code Snippets* | 9 | [CodeSnippets.css](https://github.com/VishuKalier2003/Web-Development/tree/main/Tailwind/Code%20Snippets)  |
+| 1. | *Code Snippets* | $${\color{red} 9 }$$ | [CodeSnippets.css](https://github.com/VishuKalier2003/Web-Development/tree/main/Tailwind/Code%20Snippets)  |
 
 ------
 
