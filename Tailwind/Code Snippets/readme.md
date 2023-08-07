@@ -22,6 +22,8 @@ The table provides the description of the code content of every file.
 | 7. | *BorderTaliwind.css* | [BorderTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/BorderTailwind.css) | *Border Styling Utility Classes of Tailwind Framework* |
 | 8. | *EffectsTailwind.css* | [EffectsTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/EffectsTailwind.css) | *Visual Effects Utility Classes of Tailwind Framework* |
 | 9. | *FilterTailwind.css* | [FilterTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/FilterTailwind.css) | *Filters Utility Classes of Tailwind Framework* |
+| 10. | *TransformTailwind.css* | [TransformTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/TransformTailwind.css) | *Transformations Utility Classes of Tailwind Framework* |
+| 11. | *AnimationTailwind.css* | [AnimationTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/AnimationTailwind.css) | *Animations Utility Classes of Tailwind Framework* |
 
 ------
 
