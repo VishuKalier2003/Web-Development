@@ -1,0 +1,21 @@
+@import "tailwindcss/base";
+@import "tailwindcss/utilities";
+@import "tailwindcss/components";
+
+/* Interactiveness - Tailwind Cascading Style Sheet */
+
+/* Cursor */
+.cursor-auto                    .cursor-default                 .cursor-pointer             .cursor-wait
+.cursor-text                    .cursor-move                    .cursor-help                .cursor-not-allowed
+
+/* Element Outline */
+.outline-none                   .outline-white                  .outline-black
+
+/* Controlling whether Elements respond to pointer events */
+.pointer-events-none            .pointer-events-auto
+
+/* Resizing Possibilities */
+.resize-none                    .resize-x                       .resize-y                   .resize
+
+/* Text Selection Possibilities */
+.select-none                    .select-auto                    .select-text                .select-all
