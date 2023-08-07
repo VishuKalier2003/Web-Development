@@ -24,6 +24,7 @@ The table provides the description of the code content of every file.
 | 9. | *FilterTailwind.css* | [FilterTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/FilterTailwind.css) | *Filters Utility Classes of Tailwind Framework* |
 | 10. | *TransformTailwind.css* | [TransformTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/TransformTailwind.css) | *Transformations Utility Classes of Tailwind Framework* |
 | 11. | *AnimationTailwind.css* | [AnimationTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/AnimationTailwind.css) | *Animations Utility Classes of Tailwind Framework* |
+| 12. | *InteractiveTailwind.css* | [InteractiveTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/InteractiveTailwind.css) | *Interactiveness Utility Classes of Tailwind Framework* |
 
 ------
 
