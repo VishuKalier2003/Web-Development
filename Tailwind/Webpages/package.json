@@ -1,10 +1,10 @@
 {
-  "name": "dup",
+  "name": "colorlib",
   "version": "1.0.0",
   "description": "",
   "main": "postcss.config.js",
   "scripts": {
-    "start" : "vite"
+    "start": "vite"
   },
   "author": "",
   "license": "ISC"
