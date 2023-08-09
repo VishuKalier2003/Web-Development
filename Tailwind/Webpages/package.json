@@ -1,0 +1,11 @@
+{
+  "name": "dup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postcss.config.js",
+  "scripts": {
+    "start" : "vite"
+  },
+  "author": "",
+  "license": "ISC"
+}

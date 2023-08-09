@@ -1,0 +1,23 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.white-background {
+    height: 95vh;width: 95vw;position: relative;
+}
+
+.span-tag-dimension {
+    width: 6px;height: 2px;background-color: black;
+}
+
+.border-visible {
+    border: solid 2px red;
+}
+
+.border-final {
+    border: solid 3px rgb(220, 38, 38);
+}
+
+.image-border {
+    border: solid 12px rgb(205, 80, 205);
+}
