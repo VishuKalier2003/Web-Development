@@ -13,9 +13,10 @@ The table provides statistical Inference of the files in every Subfolder.
 
 | ***S. No.*** | ***Folder Name*** | ***No. of Folders*** | ***Link***
 |-|-|-|-|
-| 1. | ***Node.js*** | 2 | [Node.js](https://github.com/VishuKalier2003/Web-Development/tree/main/Node.js)  |
-| 2. | ***HTML*** | 1 | [HTML](https://github.com/VishuKalier2003/Web-Development/tree/main/HTML)    |
-| 3. | ***Tailwind.css*** | 3 | [Tailwind.css](https://github.com/VishuKalier2003/Web-Development/tree/main/Tailwind) |
+| 1. | ***Node.js*** | $${\color{red} 2 }$$ | [Node.js](https://github.com/VishuKalier2003/Web-Development/tree/main/Node.js)  |
+| 2. | ***HTML*** | $${\color{red} 1 }$$ | [HTML](https://github.com/VishuKalier2003/Web-Development/tree/main/HTML)    |
+| 3. | ***Tailwind.css*** | $${\color{red} 3 }$$ | [Tailwind.css](https://github.com/VishuKalier2003/Web-Development/tree/main/Tailwind) |
+| 4. | ***JavaScript.js*** | $${\color{red} 1 }$$ | [JavaScript.js](https://github.com/VishuKalier2003/Web-Development/tree/main/JavaScript.js) |
 
 
 ------
@@ -25,19 +26,27 @@ The table provides statistical Inference of the files in every Subfolder.
 The Folder Structure explains the Folder directories of the current repository. It explains the use of every fodler provided in the repository.
 
 
-    |--> Node.js                      => All Files related to Node.js
+    |--> Node.js                          => All Files related to Node.js
     |      |
     |      |--> Challenges            => Challenges/Exercises related to Node.js
     |      |
-    |      |--> Helper Snippets       => Useful Code Snippets related to Node.js
+    |      |--> Helper Snippets       => Useful Code Snippets (methods) related to Node.js
     |
-    |--> HTML                         => All Files related to HTML
+    |--> HTML                             => All Files related to HTML
     |      |
     |      |--> Cheat Sheet           => All possible Non-deprecated Tags in HTML 
     |
-    |--> Tailwind.css                 => All Files related to Tailwind CSS
+    |--> Tailwind.css                     => All Files related to Tailwind CSS
     |      |
-    |      |--> Code Snippets         => Useful Code Snippets related to Tailwind CSS
+    |      |--> Code Snippets         => Useful Code Snippets (methods) related to Tailwind CSS
+    |      |
+    |      |--> Core                  => Installation Guide for Tailwind CSS
+    |      |
+    |      |--> Websites              => Static Websties for practicing Frontend using Tailwind CSS
+    |
+    |--> JavaScript.js                    => All Files related to JavaScript
+    |      |
+    |      |--> Code Snippets         => Useful Code Snippets (methods) related to JavaScript
     |
 
 
