@@ -1,4 +1,4 @@
-# ${\color{lightblue} Tailwind.css \space Code \space Snippets \space Folder}$
+# ${\color{lightblue} JavaScript.js \space Code \space Snippets \space Folder}$
 
 ## ${\color{lightgreen} Overview}$
 
@@ -13,9 +13,9 @@ The table provides the description of the code content of every file.
 
 | ***S. No.*** | ***File Name*** | ***Link*** | ***Description*** |
 |-|-|-|-|
-| 1. | *FontTailwind.css* | [FontTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/FontTailwind.css) | *Font Styling Utility Classes of Tailwind Framework* |
-| 2. | *SizingTailwind.css* | [SizingTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/SizingTailwind.css) | *Elements Sizing Utility Classes of Tailwind Framework* |
-| 3. | *SpacingTailwind.css* | [SpacingTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/SpacingTailwind.css) | *Elements Spacing Utility Classes of Tailwind Framework* |
+| 1. | *InstanceEvents.js* | [InstanceEvents.js](https://github.com/VishuKalier2003/Web-Development/blob/main/JavaScript.js/Code%20Snippets/InstanceEvents.js) | *External Browser Events in JavaScript* |
+| 2. | *InstanceMethods.js* | [InstanceMethods.js](https://github.com/VishuKalier2003/Web-Development/blob/main/JavaScript.js/Code%20Snippets/InstanceMethods.js) | *Browser Events in JavaScript* |
+| 3. | *InstanceProperties.js* | [InstanceProperties.js](https://github.com/VishuKalier2003/Web-Development/blob/main/JavaScript.js/Code%20Snippets/InstanceProperties.js) | *Window Global Variable Properties in JavaScript* |
 
 ------
 
