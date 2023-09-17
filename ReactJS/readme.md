@@ -12,7 +12,7 @@ The table provides statistical Inference of the files in every Subfolder.
 
 | ***S. No.*** | ***Folder Name*** | ***Files*** | ***Link***
 |-|-|-|-|
-| 1. | *Mini Projects* | $${\color{red} 2 }$$ | [CodeSnippets](https://github.com/VishuKalier2003/Web-Development/tree/main/Tailwind/Code%20Snippets)  |
+| 1. | *Mini Projects* | $${\color{red} 2 }$$ | [MiniProjects](https://github.com/VishuKalier2003/Web-Development/tree/main/ReactJS/Mini%20Projects)  |
 | 2. | *Core* | $${\color{red} 1 }$$ | [Core](https://github.com/VishuKalier2003/Web-Development/tree/main/Tailwind/Core) |
 
 ------
