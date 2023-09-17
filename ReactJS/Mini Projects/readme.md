@@ -13,7 +13,8 @@ The table provides the description of the code content of every file.
 
 | ***S. No.*** | ***File Name*** | ***Link*** | ***Description*** |
 |-|-|-|-|
-| 1. | *FontTailwind.css* | [FontTailwind.css](https://github.com/VishuKalier2003/Web-Development/blob/main/Tailwind/Code%20Snippets/FontTailwind.css) | *Font Styling Utility Classes of Tailwind Framework* |
+| 1. | *Date Time Project* | [Link](https://github.com/VishuKalier2003/Web-Development/tree/main/ReactJS/Mini%20Projects/Date%20Time%20Project) | *Mini Project to Display Dynamic Message* |
+| 2. | *List Project* | [Link](https://github.com/VishuKalier2003/Web-Development/tree/main/ReactJS/Mini%20Projects/List%20Project) | *Mini Project to Display Lists* | 
 
 ------
 
