@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Caveat&display=swap');
+
+* {
+    margin: 0; padding: 0; background: rgb(39, 39, 39);
+}
+
+.night {
+    background: linear-gradient(to left, orange, red); position: relative; left: 15%; padding: 12px;
+    height: 30%; font-family: 'Caprasimo', cursive; font-size: 50px; -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; background-clip: text;
+}
+
+.morning {
+    background: linear-gradient(to left, blue, darkblue); position: relative; left: 15%; padding: 12px;
+    height: 30%; font-family: 'Caprasimo', cursive; font-size: 50px; -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; background-clip: text;
+}
+
+.afternoon {
+    background: linear-gradient(to left, pink, violet); position: relative; left: 15%; padding: 12px;
+    height: 30%; font-family: 'Caprasimo', cursive; font-size: 50px; -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; background-clip: text;
+}
