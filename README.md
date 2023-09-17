@@ -17,6 +17,7 @@ The table provides statistical Inference of the files in every Subfolder.
 | 2. | ***HTML*** | $${\color{red} 1 }$$ | [HTML](https://github.com/VishuKalier2003/Web-Development/tree/main/HTML)    |
 | 3. | ***Tailwind.css*** | $${\color{red} 3 }$$ | [Tailwind.css](https://github.com/VishuKalier2003/Web-Development/tree/main/Tailwind) |
 | 4. | ***JavaScript.js*** | $${\color{red} 2 }$$ | [JavaScript.js](https://github.com/VishuKalier2003/Web-Development/tree/main/JavaScript.js) |
+| 5. | ***ReactJS*** | $${\color{red} 2 }$$ | [ReactJS](https://github.com/VishuKalier2003/Web-Development/tree/main/ReactJS) |
 
 
 ------
@@ -49,6 +50,12 @@ The Folder Structure explains the Folder directories of the current repository. 
     |      |--> Code Snippets         => Useful Code Snippets (methods) related to JavaScript
     |      |
     |      |--> Javascript Games      => Practice Games hosted and created from scratch
+    |
+    |--> ReactJS                          => All Files related to ReactJS
+    |      |
+    |      |--> Mini Projects         => Practice Projects for better understanding of React and Javascript
+    |      |
+    |      |--> Core                  => Setup Guide and Default Folder Information 
     |
 
 
