@@ -12,8 +12,8 @@ The table provides statistical Inference of the files in every Subfolder.
 
 | ***S. No.*** | ***Folder Name*** | ***No. of Files*** | ***Link***
 |-|-|-|-|
-| 1. | ***Challenges*** | 2 | [Challenges.js](https://github.com/VishuKalier2003/Web-Development/tree/main/Node.js/Challenges)  |
-| 2. | ***Code Snippets*** | 0 | [CodeSnippets.js](https://github.com/VishuKalier2003/Web-Development/tree/main/Node.js/Code%20Snippets)  |
+| 1. | ***Challenges*** | $${\color{red} 2 }$$ | [Challenges.js](https://github.com/VishuKalier2003/Web-Development/tree/main/Node.js/Challenges)  |
+| 2. | ***Code Snippets*** | $${\color{red} 1 }$$ | [CodeSnippets.js](https://github.com/VishuKalier2003/Web-Development/tree/main/Node.js/Code%20Snippets)  |
 
 ------
 
