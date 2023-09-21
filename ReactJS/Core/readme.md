@@ -38,6 +38,50 @@ It stores the folders which are mostly back-end based. In here the Javascript fi
 
 ----
 
+
+## ${\color{lightgreen} Deployment}$$
+
+### Step 1 
+
+Download Git on desktop and set the environment variables for both the .bin and .cmd files. To confirm check using the below command.
+
+    git --version
+
+### Step 2
+
+On the local terminal run the command to initialise git after reaching the respective app folder. Download the gh-pages extension as well.
+
+    git init
+    npm install --save gh-pages
+
+### Step 3
+
+In the `package.json` file set the homepage as the url link to the repo. Add the following scripts in also in the `package.json` file.
+
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build"
+
+### Step 4
+
+Use the following command.
+
+    git remote add origin 'link to the repo'
+
+### Step 5
+
+Configure your Github Email and Username to git.
+
+    git config --global user.email "you@example.com"
+    git config --global user.name "Your Name"
+
+### Step 6
+
+Finally Run the following command to set up your work.
+
+    npm run deploy
+
+----
+
 ## ${\color{lightgreen} Maintained \space By}$
 ### ${\color{lightblue} Vishu \space Kalier}$
 
