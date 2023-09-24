@@ -1,4 +1,4 @@
-# ${\color{lightblue} Web \space Develpoment}$
+# ${\color{lightblue} Web \space Development}$
 
 ## ${\color{lightgreen} Overview}$
 
