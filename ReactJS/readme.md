@@ -1,12 +1,12 @@
-# ${\color{lightblue} ReactJS}$
+# ***ReactJS***
 
-## ${\color{lightgreen} Overview}$
+## ***Overview***
 
 This folder contains the projects, files and folders associated with *ReactJS*. The complete theory, practical and code learned is provided in this subfolder. ReactJS is a *frontend framework* used for buidling Multi-page applications. It is integrated and powered with JavaScript in the backend for making robust websites.
 
 ------
 
-## ${\color{lightgreen} Folder \space Table}$
+## ***Folder Table***
 
 The table provides statistical Inference of the files in every Subfolder.
 
@@ -18,6 +18,6 @@ The table provides statistical Inference of the files in every Subfolder.
 ------
 
 
-# ${\color{lightblue} Maintained \space By}$
-## ${\color{lightgreen} Vishu \space Kalier}$
+# ***Maintained By***
+## ***Vishu Kalier***
 
