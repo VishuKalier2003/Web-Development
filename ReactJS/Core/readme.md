@@ -1,9 +1,9 @@
-# ${\color{lightblue} ReactJS \space Installation}$
+# ***ReactJS Installation***
 
-## ${\color{lightgreen} Overview}$
+## ***Overview***
 This markdown file will help in installation of ReactJS in local machine.
 
-## ${\color{lightgreen} Installation}$
+## ***Installation***
 
 ### Step 1
 
@@ -26,7 +26,7 @@ Now we finally run the server.
 
 ----
 
-## ${\color{lightgreen} Folders \space Information}$
+## ***Folders Information***
 
 ### public
 
@@ -39,7 +39,7 @@ It stores the folders which are mostly back-end based. In here the Javascript fi
 ----
 
 
-## ${\color{lightgreen} Deployment}$$
+## ***Deployment***
 
 ### Step 1 
 
@@ -82,8 +82,8 @@ Finally Run the following command to set up your work.
 
 ----
 
-## ${\color{lightgreen} Maintained \space By}$
-### ${\color{lightblue} Vishu \space Kalier}$
+## ***Maintained By***
+### ***Vishu Kalier***
 
 
 
