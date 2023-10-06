@@ -1,13 +1,13 @@
-# ${\color{lightblue} JavaScript.js}$
+# JavaScript.js
 
-## ${\color{lightgreen} Overview}$
+## Overview
 
 This folder contains the projects, files and folders associated with *JavaScript.js* . The complete theory, practical and code learned is provided in this 
 subfolders herewith.
 
 ------
 
-## ${\color{lightgreen} Folder \space Table}$
+## Folder Table
 
 The table provides statistical Inference of the files in every Subfolder.
 
@@ -19,5 +19,5 @@ The table provides statistical Inference of the files in every Subfolder.
 ------
 
 
-# ${\color{lightblue} Maintained \space By}$
-## ${\color{lightgreen} Vishu \space Kalier}$
+# Maintained By
+## Vishu Kalier
