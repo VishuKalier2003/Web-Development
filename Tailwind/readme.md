@@ -1,12 +1,12 @@
-# Tailwind.css
+# ***Tailwind.css***
 
-## Overview
+## ***Overview***
 
 This folder contains the projects, files and folders associated with *Tailwind.css* . The complete theory, practical and code learned is provided in this subfolder.
 
 ------
 
-## Folder Table
+## ***Folder Table***
 
 The table provides statistical Inference of the files in every Subfolder.
 
@@ -19,5 +19,5 @@ The table provides statistical Inference of the files in every Subfolder.
 ------
 
 
-# Maintained By
-## Vishu Kalier
+# ***Maintained By***
+## ***Vishu Kalier***
