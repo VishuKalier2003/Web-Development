@@ -1,9 +1,9 @@
-# ${\color{lightblue} Tailwindcss \space Installation}$
+# ***Tailwindcss Installation***
 
-## ${\color{lightgreen} Overview}$
+## ***Overview***
 This markdown file will help in installation of Tailwindcss in local machine. It provides the step by step visualisations for installing Tailwind.
 
-## ${\color{lightgreen} Installation}$
+## ***Installation***
 
 ### Step - 1
 Reach the local directory where the Project folder is located and create two files `Index.html` and `Style.css`. The Folder may look like this.
@@ -102,8 +102,8 @@ In the project folder, open the terminal once again and run the following comman
 
 ----
 
-## ${\color{lightgreen} Maintained \space By}$
-### ${\color{lightblue} Vishu \space Kalier}$
+## ***Maintained By***
+### ***Vishu Kalier}***
 
 
 
