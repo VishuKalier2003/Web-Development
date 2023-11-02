@@ -1,13 +1,13 @@
-# ${\color{lightblue} Tailwind.css \space Code \space Snippets \space Folder}$
+# ***Tailwind.css Code Snippets Folder***
 
-## ${\color{lightgreen} Overview}$
+## ***Overview***
 
 This folder contains the *Tailwind.css* files which were created to generate useful *Code Snippets* which can be directly incorporated in real world
 projects while learning Tailwind.css . The code snippets are from the latest version of Tailwind.
 
 ------
 
-## ${\color{lightgreen} Folder \space Table}$
+## ***Folder Table***
 
 The table provides the description of the code content of every file.
 
@@ -29,5 +29,5 @@ The table provides the description of the code content of every file.
 ------
 
 
-# ${\color{lightblue} Maintained \space By}$
-## ${\color{lightgreen} Vishu \space Kalier}$
+# ***Maintained By***
+## ***Vishu Kalier***
