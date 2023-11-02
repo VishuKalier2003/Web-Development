@@ -1,13 +1,13 @@
-# ${\color{lightblue} Websites}$
+# ***Websites***
 
-## ${\color{lightgreen} Overview}$
+## ***Overview***
 
 This directory contains the websites created using *HTML* and *Tailwind framework of CSS*. The Websites are a frontend practice and can be integrated with
 backend for later use.
 
 ----
 
-### ${\color{lightgreen} Folder \space Table}$
+### ***Folder Table***
 
 The Folder table contains the files associated to the Websites hosted in this directory. The link of the files and the website is provided.
 
@@ -19,5 +19,5 @@ The Folder table contains the files associated to the Websites hosted in this di
 
 ----
 
-# ${\color{lightblue} Maintained \space By}$
-## ${\color{lightgreen} Vishu \space Kalier}$
+# ***Maintained By***
+## ***Vishu Kalier***
