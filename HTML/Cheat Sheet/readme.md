@@ -1,13 +1,13 @@
-# ${\color{lightblue} HTML \space Cheat \space Sheet \space Folder}$
+# ***HTML Cheat Sheet Folder***
 
-## ${\color{lightgreen} Overview}$
+## ***Overview***
 
 This folder contains the Cheat Sheet of ***HTML*** language. The Syntax of every HTML Tag which is not deprecated is provided. Also the most important and
 genrally used ones are especially highlighted with comments. 
 
 ------
 
-## ${\color{lightgreen} Folder \space Table}$
+## ***Folder Table***
 
 The table provides the description of the code content of every file.
 
@@ -18,6 +18,6 @@ The table provides the description of the code content of every file.
 ------
 
 
-# ${\color{lightblue} Maintained \space By}$
-## ${\color{lightgreen} Vishu \space Kalier}$
+# ***Maintained By***
+## ***Vishu Kalier***
 
