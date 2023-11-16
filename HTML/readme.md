@@ -12,7 +12,7 @@ The table provides statistical Inference of the files in every Subfolder.
 
 | ***S. No.*** | ***Folder Name*** | ***No. of Files*** | ***Link***
 |-|-|-|-|
-| 1. | ***Cheat Sheet*** | 1 | [*CheatSheet.html*](https://github.com/VishuKalier2003/Web-Development/tree/main/HTML/Cheat%20Sheet)  |
+| 1. | ***Cheat Sheet*** | $${\color{red}1}$$ | [*CheatSheet.html*](https://github.com/VishuKalier2003/Web-Development/tree/main/HTML/Cheat%20Sheet)  |
 
 ------
 
